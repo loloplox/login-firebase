@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { Logueo } from './components/Logueo';
 import { Home } from "./components/Home";
 import firebaseApp from "./credenciales";
